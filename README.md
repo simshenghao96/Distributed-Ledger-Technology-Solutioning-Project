@@ -1,0 +1,1 @@
+This is the Distributed Ledger Technology Solutioning Graded Assignment Project that is a blockchain based application for business service selling electronic gadgets with a feature of NFT in the application as well.
