@@ -2,10 +2,12 @@ This is the Distributed Ledger Technology Solutioning Graded Assignment Project 
 <br>
 
 # Setup Guide
-1. Ensure that Ganache is Running locally.
-2. Compile and migrate the smart contracts onto Ganache before running the application by doing `truffle compile` and `truffle migrate --network development`.
-3. Run the app through the command prompt via the react app directory which for this case would be `.\BlockChain\GA_MetaTest2\ga-react-app` by doing `npm start`.
-4. Access the application at `http://localhost:3000` with a browser that has the **MetaMask** Extension Enabled in order for the blockchain app to connect to the wallet. 
+1. Create a folder for creating the application itself
+2. Change directory to the folder created and do a `truffle init` to create the necessary folders. (Contracts, Migrations and etc...)
+3. Ensure that Ganache is Running locally.
+4. Compile and migrate the smart contracts onto Ganache before running the application by doing `truffle compile` and `truffle migrate --network development`.
+5. Run the app through the command prompt via the react app directory which for this case would be `.\BlockChain\GA_MetaTest2\ga-react-app` by doing `npm start`.
+6. Access the application at `http://localhost:3000` with a browser that has the **MetaMask** Extension Enabled in order for the blockchain app to connect to the wallet. 
 
 
 # Module Installations Guide
